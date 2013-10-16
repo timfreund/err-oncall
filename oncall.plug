@@ -1,0 +1,9 @@
+[Core]
+Name = OnCall
+Module = oncall
+
+[Documentation]
+Description = On Call: find room administrators and others when they're away from the keyboard
+
+[Python]
+Version = 2+
